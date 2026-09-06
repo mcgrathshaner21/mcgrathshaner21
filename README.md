@@ -1,4 +1,4 @@
-<img width="1200" height="1280" alt="6c660a42-12e0-4d35-8032-59af18adfc5d" src="https://github.com/user-attachments/assets/7c016937-4145-4eec-a556-1b1c49e77843" />
+<img width="1947" height="1280" alt="6c660a42-12e0-4d35-8032-59af18adfc5d" src="https://github.com/user-attachments/assets/7c016937-4145-4eec-a556-1b1c49e77843" />
 <h1 align="center">Hi 👋, I'm Shane McGrath</h1>
 <h3 align="center">A Junior at James Madison University</h3>
 
