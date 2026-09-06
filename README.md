@@ -1,5 +1,4 @@
-<img width="30%" height="1390" alt="9dfb6f01-1d35-4b40-9e46-a1075c80a607" src="https://github.com/user-attachments/assets/c1b87b7c-3ebe-481e-bca4-166df0d24f87" />
-<img width="30%" height="1280" alt="d6cce67c-1202-4084-a302-5d36aefe6883" src="https://github.com/user-attachments/assets/ceeb1a4d-c81b-4298-b7b6-3c4f56b44bd3" />
+
 <img width="30%" height="1920" alt="7f50483f-5c5e-4e76-b393-16bd82556a0d" src="https://github.com/user-attachments/assets/818a5a16-2985-40e9-8f79-6a6fd6e30718" />
 
 <h1 align="center">Hi 👋, I'm Shane McGrath</h1>
