@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf](file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf)
 
-- ⚡ Fun fact **I have lived all over the east coast and I plan to commission Marine Corps Officer following my graduation**
+- ⚡ Fun fact **I have lived all over the east coast and I plan to commission as a Marine Corps Officer following my graduation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
