@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [View My Resume](./Resume.pdf)
 
-- 🇺🇸 Following graduation, I plan to **commission as an Officer in the United States Marine Corps**
+- 👨‍🎓 Following graduation, I plan to **commission as an Officer in the United States Marine Corps**
 
 - ⚡ Fun fact **I have lived all over the east coast and I plan to commission as a Marine Corps Officer following my graduation**
 
@@ -36,7 +36,6 @@
 - **GitHub & Git** — Repository management, version control, README development, and collaborative projects
 - **Markdown & HTML** — Creating and formatting digital content and web-based projects
 - **SQL** — Developing foundational skills in databases, queries, and working with structured data
-- **Adobe Illustrator** — Digital design and visual communication
 - **Microsoft Office** — Word, PowerPoint, Excel, and other productivity tools
 - **Digital Communication** — Creating clear, audience-focused content across digital platforms
 - **Digital Research** — Exploring how technology and digital tools can be used for research, communication, and collaboration
