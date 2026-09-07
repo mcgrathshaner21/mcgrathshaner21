@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mcgrathshaner2024@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf](file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf)
+- 📄 Know about my experiences [View My Resume](./Resume.pdf)
 
 - ⚡ Fun fact **I have lived all over the east coast and I plan to commission as a Marine Corps Officer following my graduation**
 ---
