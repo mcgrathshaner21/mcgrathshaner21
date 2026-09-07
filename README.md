@@ -61,8 +61,9 @@ As I continue developing my technical skills, I want to combine them with my bac
 ---
 
 ## 🌊 Outside of Technology
-
-When I'm away from school and technology, you'll usually find me doing something active or outdoors.
+<p align="center">
+<img width="70%" height="786" alt="image" src="https://github.com/user-attachments/assets/1efa937f-1faf-492f-b895-828547eaadf8" />
+---
 
 - 🥍 **Lacrosse** — A major part of my life and an experience that has helped shape my approach to teamwork and discipline
 - 🎣 **Fly Fishing & Fishing** — I enjoy spending time outdoors and exploring new water
@@ -70,9 +71,7 @@ When I'm away from school and technology, you'll usually find me doing something
 - 🎿 **Skiing** — Always looking forward to getting back on the mountain
 - 🥾 **Hiking & the Outdoors** — I enjoy exploring new places and challenging myself outside
 - 🏋️ **Fitness** — Training and physical preparation are an important part of my routine
-
----
-
+  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
