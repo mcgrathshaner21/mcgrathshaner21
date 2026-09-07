@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1270" height="354" alt="Screenshot 2026-09-07 094557" src="https://github.com/user-attachments/assets/2b0a38a8-a9b5-4aa8-96d7-8b77b4812ba7" />
+<img width="50%" height="354" alt="Screenshot 2026-09-07 094557" src="https://github.com/user-attachments/assets/2b0a38a8-a9b5-4aa8-96d7-8b77b4812ba7" />
 
 <h1 align="center">Hi 👋, I'm Shane McGrath</h1>
 <h3 align="center">A Junior at James Madison University</h3>
