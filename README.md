@@ -51,8 +51,10 @@ As I continue developing my technical skills, I want to combine them with my bac
 ---
 
 ## 🦅 Leadership & Future Goals
+<p align="center">
+<img width="20%" height="2400" alt="image" src="https://github.com/user-attachments/assets/241607bf-c7d8-4bed-9b45-0834d4ae0a2d" />
 
-- 🇺🇸 Preparing for a future career as a **United States Marine Corps Officer**
+- 🪖 Preparing for a future career as a **United States Marine Corps Officer**
 - 🧭 Interested in developing my abilities in **leadership, decision-making, communication, and teamwork**
 - 💪 I value **discipline, accountability, resilience, and continuous improvement**
 - 🤝 I enjoy working in team environments where people bring different skills and perspectives to accomplish a common goal
@@ -63,7 +65,6 @@ As I continue developing my technical skills, I want to combine them with my bac
 ## 🌊 Outside of Technology
 <p align="center">
 <img width="70%" height="786" alt="image" src="https://github.com/user-attachments/assets/1efa937f-1faf-492f-b895-828547eaadf8" />
----
 
 - 🥍 **Lacrosse** — A major part of my life and an experience that has helped shape my approach to teamwork and discipline
 - 🎣 **Fly Fishing & Fishing** — I enjoy spending time outdoors and exploring new water
