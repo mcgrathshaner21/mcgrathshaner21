@@ -1,8 +1,12 @@
 <p align="center">
-<img width="50%" height="354" alt="Screenshot 2026-09-07 094557" src="https://github.com/user-attachments/assets/2b0a38a8-a9b5-4aa8-96d7-8b77b4812ba7" />
+  <img width="266" height="100" alt="images" src="https://github.com/user-attachments/assets/a1192c6a-889e-4a27-8ef6-481b00b4f669" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shane McGrath</h1>
-<h3 align="center">A Junior at James Madison University</h3>
+<h3 align="center">Communication Studies Major - Digital Studies Minor</h3>
+
+--- 
+## 👨‍💼 About Me!
 
 - 🌱 I’m currently learning **Digital Studies and Communication Studies**
 
@@ -15,12 +19,11 @@
 - 📄 Know about my experiences [file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf](file:///C:/Users/Shane%20McGrath/OneDrive/Desktop/Resume.pdf)
 
 - ⚡ Fun fact **I have lived all over the east coast and I plan to commission as a Marine Corps Officer following my graduation**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shane mcgrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane mcgrath" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
