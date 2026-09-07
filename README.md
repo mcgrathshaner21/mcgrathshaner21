@@ -1,6 +1,5 @@
-<p align="center"><img width="35%" height="400" alt="d5a9bbac-85be-4ef5-8f91-7302919c4faa" src="https://github.com/user-attachments/assets/57dd5d88-e806-4790-85ba-8e07c4e90b92" />
-
-<img width="35%" height="400" alt="7f50483f-5c5e-4e76-b393-16bd82556a0d" src="https://github.com/user-attachments/assets/818a5a16-2985-40e9-8f79-6a6fd6e30718" />
+<p align="center">
+<img width="1270" height="354" alt="Screenshot 2026-09-07 094557" src="https://github.com/user-attachments/assets/2b0a38a8-a9b5-4aa8-96d7-8b77b4812ba7" />
 
 <h1 align="center">Hi 👋, I'm Shane McGrath</h1>
 <h3 align="center">A Junior at James Madison University</h3>
